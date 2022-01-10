@@ -15,16 +15,16 @@ p {
 }
 
 #jester {
-    height: 99vh;
-    width: 99vw;
+    height: 98vh;
+    width: 98vw;
     position: absolute;
     z-index: 0;
 }
 
 
 #jester model-viewer {
-    height: 99vh;
-    width: 99vw;
+    height: 98vh;
+    width: 98vw;
     position: absolute;
     border: none;
 }
